@@ -10,6 +10,7 @@ package org.vm.app;
 public class BeanTwo {
 
   private String name;
+  private String masterChangeOne;
 
   public String getName() {
     return name;
