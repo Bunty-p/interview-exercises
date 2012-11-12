@@ -19,5 +19,5 @@ public class BeanThree {
     this.id = id;
   }
 
-  //new-branch-2, test one, change two
+  //new-branch-3, test one, change one
 }
