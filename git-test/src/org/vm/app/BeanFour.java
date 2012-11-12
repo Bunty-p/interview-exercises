@@ -18,4 +18,6 @@ public class BeanFour {
   public void setId(int id) {
     this.id = id;
   }
+
+  //new-branch-1: test five, change one
 }
