@@ -10,7 +10,6 @@ package org.vm.app;
 public class BeanFour {
 
   private int id;
-  //test four change one from master
 
   public int getId() {
     return id;
@@ -19,6 +18,4 @@ public class BeanFour {
   public void setId(int id) {
     this.id = id;
   }
-
-  //new-branch-1: test five, change one
 }
