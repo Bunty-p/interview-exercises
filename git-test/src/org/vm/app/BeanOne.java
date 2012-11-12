@@ -8,6 +8,7 @@ package org.vm.app;
  * To change this template use File | Settings | File Templates.
  */
 public class BeanOne {
+
   private int id;
   private String masterChangeTwo;
   private String newBranchChangeOne;
