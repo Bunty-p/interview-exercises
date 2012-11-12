@@ -27,4 +27,6 @@ public class BeanTwo {
   public void setName(String name) {
     this.name = name;
   }
+
+  //test four; change two from new-branch-1
 }
