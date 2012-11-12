@@ -14,6 +14,7 @@ public class BeanOne {
   private String newBranchChangeOne;
   private String testTwoCommitOneFromMaster;
   private String testTwoChangeOneFromNewBranch_1;
+  private String beginTestThree;
 
   public int getId() {
     return id;
