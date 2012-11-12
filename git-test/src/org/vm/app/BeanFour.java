@@ -4,12 +4,12 @@ package org.vm.app;
  * Created with IntelliJ IDEA.
  * User: ssykes
  * Date: 11/12/12
- * Time: 9:32 AM
+ * Time: 10:07 AM
  * To change this template use File | Settings | File Templates.
  */
-public class BeanOne {
+public class BeanFour {
+
   private int id;
-  private String newBranchChangeOne;
 
   public int getId() {
     return id;
