@@ -12,6 +12,7 @@ public class BeanThree {
   private String changeToMaster;
   private String testTwoChangeTwoFromMaster;
   private String testTwoChangeTwoFromNewBranch_1;
+  private String testThreeChangeTwoFromNewBranchOne;
 
   public int getId() {
     return id;
