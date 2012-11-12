@@ -8,4 +8,13 @@ package org.vm.app;
  * To change this template use File | Settings | File Templates.
  */
 public class BeanOne {
+  private int id;
+
+  public int getId() {
+    return id;
+  }
+
+  public void setId(int id) {
+    this.id = id;
+  }
 }
