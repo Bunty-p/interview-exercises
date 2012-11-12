@@ -11,6 +11,7 @@ public class BeanTwo {
 
   private String name;
   private String masterChangeOne;
+  private String testTwoCommitTwoFromMaster;
 
   public String getName() {
     return name;
