@@ -10,6 +10,7 @@ package org.vm.app;
 public class BeanOne {
 
   private int id;
+  //test four change two from master
 
   public int getId() {
     return id;
