@@ -9,6 +9,7 @@ package org.vm.app;
  */
 public class BeanThree {
   private int id;
+  private String testTwoChangeTwoFromNewBranch_1;
 
   public int getId() {
     return id;
