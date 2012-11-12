@@ -10,12 +10,6 @@ package org.vm.app;
 public class BeanOne {
 
   private int id;
-  private String masterChangeTwo;
-  private String newBranchChangeOne;
-  private String testTwoCommitOneFromMaster;
-  private String testTwoChangeOneFromNewBranch_1;
-  private String beginTestThree;
-  private String testThreeChangeOneFromNewBranchOne;
 
   public int getId() {
     return id;
