@@ -18,6 +18,9 @@ public class BeanOne {
   public void setId(int id) {
     this.id = id;
   }
+  public int incId() {
+    id++;
+  }
 
   //master change after squashing new-branch-3
 }
